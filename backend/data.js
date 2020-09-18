@@ -9,6 +9,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 0,
     },
     {
       _id: "2",
@@ -19,6 +20,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 9,
     },
     {
       _id: "3",
@@ -29,6 +31,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 5,
     },
     {
       _id: "4",
@@ -39,6 +42,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 20,
     },
     {
       _id: "5",
@@ -49,6 +53,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 12,
     },
     {
       _id: "6",
@@ -59,6 +64,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 15,
     },
     {
       _id: "7",
@@ -69,6 +75,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 2,
     },
     {
       _id: "8",
@@ -79,6 +86,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 20,
     },
     {
       _id: "9",
@@ -89,6 +97,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 10,
     },
     {
       _id: "10",
@@ -99,6 +108,7 @@ export default {
       brand: "Camstòr",
       rating: 4.5,
       numReviews: 20,
+      countStok: 2,
     },
   ],
 };

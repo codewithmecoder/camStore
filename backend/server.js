@@ -1,9 +1,7 @@
 import express from "express";
-import data from "./data";
+import productRoute from "./routes/productRoute";
 const app = express();
 
-app.get("/", (req, res) => {
-  res.send(data.products);
-});
+app.use("/products", productRoute);
 
 app.listen(5000, () => console.log("App is running on http://localhost:5000"));
